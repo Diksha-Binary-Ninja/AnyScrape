@@ -1,4 +1,4 @@
-**AnyScrape**
+# AnyScrape
 AnyScrape is a simple Python library that allows you to scrape headlines, links, and images from any webpage with just a single line of code. It's perfect for quick and easy web scraping without the need for extensive setup or configuration.
 
 Features -
@@ -31,10 +31,10 @@ print("Links:", links)
 images = AnyScrape.scrape('https://example.com', target='images')
 print("Images:", images)
 
-Target variables-
+Supported Targets
 'headlines': Extracts all headlines (<h1>, <h2>, <h3> tags).
 'links': Extracts all hyperlinks (<a> tags with href attributes).
-'images': Extracts all image URLs (<img> tags with src attributes).
+'images': Extracts all image URLs (<img> tags with src attributes)
 
 Output:
 
