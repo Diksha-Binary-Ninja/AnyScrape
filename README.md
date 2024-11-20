@@ -32,9 +32,9 @@ images = AnyScrape.scrape('https://example.com', target='images')
 print("Images:", images)
 
 Supported Targets
-'headlines': Extracts all headlines (<h1>, <h2>, <h3> tags).
-'links': Extracts all hyperlinks (<a> tags with href attributes).
-'images': Extracts all image URLs (<img> tags with src attributes)
+'headlines': Extracts all headlines (e.g., <h1>, <h2>, <h3> tags).
+'links': Extracts all hyperlinks (e.g., <a> tags with href attributes).
+'images': Extracts all image URLs (e.g., <img> tags with src attributes).
 
 Output:
 
