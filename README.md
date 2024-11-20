@@ -14,10 +14,11 @@ pip install AnyScrape
 
 1. Basic Usage
 Import the library and use the AnyScrape.scrape method to scrape your desired data.
+
 HOW TO IMPORT?
 WRITE-
 
-from anyscrape import AnyScrape
+**from anyscrape import AnyScrape**
 
 # Scrape headlines
 headlines = AnyScrape.scrape('https://example.com', target='headlines')
