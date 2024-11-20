@@ -36,7 +36,7 @@ Supported Targets
 'links': Extracts all hyperlinks 
 'images': Extracts all image URLs 
 
-#Output
+# Output
 
 Headlines-
 
@@ -50,6 +50,6 @@ Images-
 
 Images: ['https://example.com/image1.jpg', 'https://example.com/image2.png']
 
-#Authors
+# Authors
 Diksha, Ayush Kumar Verma
 diksha260303official@gmail.com , vermaayush5535@gmail.com
