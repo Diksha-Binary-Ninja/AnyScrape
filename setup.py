@@ -6,7 +6,7 @@ setup(
     description='A simple one-liner web scraper for basic tasks.',
     authors='Diksha, Ayush',
     authors_email='diksha260303official@gmail.com , vermaayush5535@gmail.com',
-    url='',
+    url='https://github.com/Diksha-Binary-Ninja/AnyScrape',
     packages=find_packages(),
     install_requires=[
         'requests',
