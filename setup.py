@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='AnyScrape',
-    version='0.1.0',
+    version='0.1.1',
     description="A one-liner Python library to scrape headlines, links, and images from any webpage.",
     long_description=open("README.md").read(),  # Include README as long description
     long_description_content_type="text/markdown",
